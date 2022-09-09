@@ -1,7 +1,7 @@
 /* Terei que importar a imagem colocando o caminho e dou uma apelido exemplo icon e coloco entre {}*/
-import logo from '../../assets/img/logo.svg'
+import logo from '../../assets/img/logo.svg';
 
-import './styles.css'
+import './styles.css';
 
 function Header() {// cabeçalho
     return (
@@ -18,4 +18,4 @@ function Header() {// cabeçalho
     )
 }
 
-export default Header
+export default Header;
