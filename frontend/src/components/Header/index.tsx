@@ -11,7 +11,7 @@ function Header() {// cabeçalho
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+                    <a href="https://github.com/raphael690/dsmeta">@Raphael | Venha Contribuir no projeto clique aqui e vamos ao github</a>
                 </p>
             </div>
         </header>
