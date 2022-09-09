@@ -1,4 +1,4 @@
-/* Terei que importar a imagem colocando o codigo e dou uma apelido exemplo icon e coloco entre {}*/
+/* Terei que importar a imagem colocando o caminho e dou uma apelido exemplo icon e coloco entre {}*/
 import icon from '../../assets/img/notification-icon.svg'
 
 import './styles.css'
