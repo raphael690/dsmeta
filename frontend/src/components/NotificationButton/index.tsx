@@ -1,11 +1,24 @@
 /* Terei que importar a imagem colocando o caminho e dou uma apelido exemplo icon e coloco entre {}*/
+import axios from 'axios';
 import icon from '../../assets/img/notification-icon.svg';
+import { BASE_URL } from '../../utils/request';
 
 import './styles.css';
 
-function NotificationButton() {
+type Prosp = {
+    saleId: number;
+}
+
+function handleClick(Id :number){
+    axios(`${BASE_URL}/sales/${Id}/notification`)
+    .then(Response => {
+        console.log("SUCESSO");
+    });
+}
+
+function NotificationButton({saleId} : Prosp) {
     return (
-        <div className="dsmeta-red-btn">
+        <div className="dsmeta-red-btn" onClick={() => handleClick(saleId)}>
             <img src={icon} alt="Notificar" />
         </div>
     )
