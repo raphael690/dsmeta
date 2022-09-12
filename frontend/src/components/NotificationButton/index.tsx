@@ -1,5 +1,6 @@
 /* Terei que importar a imagem colocando o caminho e dou uma apelido exemplo icon e coloco entre {}*/
 import axios from 'axios';
+import { toast } from 'react-toastify';
 import icon from '../../assets/img/notification-icon.svg';
 import { BASE_URL } from '../../utils/request';
 
@@ -12,7 +13,7 @@ type Prosp = {
 function handleClick(Id :number){
     axios(`${BASE_URL}/sales/${Id}/notification`)
     .then(Response => {
-        console.log("SUCESSO");
+      toast.info("SMS enviado com sucesso");
     });
 }
 
