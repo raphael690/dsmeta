@@ -1,6 +1,6 @@
 # dsmeta
-# Projeto Spring reactc
-## _Crie um app completo para o seu portifólio com as tecnologias mais demandadas do mercado
+# Projeto Spring react
+## Crie um app completo para o seu portifólio com as tecnologias mais demandadas do mercado
 
 # Objetivos do projeto parte 1
 * Criar projetos backend e frontend
@@ -13,9 +13,9 @@ https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
 https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
 
 # Pré-requisito: Git instalado
-___
+
 # Ferramenta
-___
+
 * Nodejs 16 e Yarn (video: https://youtu.be/x5tgFTS-CYA)
 * STS (vídeo: https://youtu.be/TGQOK9QsX88)
 * VS Code
@@ -24,7 +24,7 @@ ___
 \*JSX HTML  <tags/>
 
 # Passo: Criar projeto ReactJS
-___
+
 Irei criar uma pasta chamada projetos dentro do disco c: aposto irei criar 1 outra pasta de projetos chamada dsmeta e logo em seguida 2 subpasta dentro da pasta dsmeta chamada frontend e backend.
 
 c:\projetos | dsmeta
@@ -37,7 +37,7 @@ comando para criar a pasta frontend:
 yarn create vite frontend --template reacts-ts
 ~~~~
 # Passo: Criar projeto Spring Boot
-___
+
 
 * Criar projeto Spring Boot no **Spring Initializr** com as seguintes dependências:
      -    Web
@@ -64,16 +64,16 @@ git remote add origin git@github.com:seuusuario/seurepositorio.git
 git push -u origin main
 ~~~~
 # Passo: "Limpar" O projeto ReactJS
-___
+
 * COMMIT: Project clean
 # Passo: Primeiro componente
-___
+
 * COMMIT: First component
 # Passo: Outros componentes
-___
+
 * COMMIT: Other components
 # Passo: Datepicker
-____
+
 Documentação: https://github.com/Hacker0x01/react-datepicker
 ~~~~
 yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2
