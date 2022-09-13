@@ -1,4 +1,3 @@
-# dsmeta
 # Projeto Spring react
 ## Crie um app completo para o seu portifólio com as tecnologias mais demandadas do mercado
 
@@ -8,9 +7,9 @@
 * Montar o visual estático do front end
 
 # Design Figma
-https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
-https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
-https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
+* https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
+* https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
+* https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
 
 # Pré-requisito: Git instalado
 
