@@ -18,9 +18,9 @@
 * Nodejs 16 e Yarn (video: https://youtu.be/x5tgFTS-CYA)
 * STS (vídeo: https://youtu.be/TGQOK9QsX88)
 * VS Code
--     Intellicode
--     ESLint
--     JSX HTML  <tags/>
+     - Intellicode
+     - ESLint
+     - JSX HTML  <tags/>
 
 # Passo: Criar projeto ReactJS
 
